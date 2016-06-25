@@ -1,0 +1,31 @@
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Debug\Custom RecyclerView StaggeredGrid.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Debug\Custom RecyclerView StaggeredGrid.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Debug\Custom_RecyclerView_StaggeredGrid.Custom_RecyclerView_StaggeredGrid.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Debug\Custom_RecyclerView_StaggeredGrid.Custom_RecyclerView_StaggeredGrid-Signed.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\Custom RecyclerView StaggeredGrid.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\Custom RecyclerView StaggeredGrid.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\Custom RecyclerView StaggeredGrid.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\android\bin\Custom_RecyclerView_StaggeredGrid.Custom_RecyclerView_StaggeredGrid.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\layout\main.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\values\strings.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\icon.png
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\R.cs.flag
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\uploadflags.txt
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\layout\model.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\shuttlecarrier.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\starwars.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\thrones.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\blacklist.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\breaking.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\crisis.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\fruits.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\ghost.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\meninblack.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\moderncity.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\red.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\res\drawable\rider.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Debug\Custom RecyclerView StaggeredGrid.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Debug\Custom RecyclerView StaggeredGrid.dll.mdb
