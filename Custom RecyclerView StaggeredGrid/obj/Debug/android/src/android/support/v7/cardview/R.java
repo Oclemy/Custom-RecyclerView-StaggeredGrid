@@ -162,14 +162,29 @@ containing a value of this type.
         public static int item_touch_helper_swipe_escape_velocity=0x7f040002;
     }
     public static final class drawable {
-        public static int icon=0x7f020000;
+        public static int blacklist=0x7f020000;
+        public static int breaking=0x7f020001;
+        public static int crisis=0x7f020002;
+        public static int fruits=0x7f020003;
+        public static int ghost=0x7f020004;
+        public static int icon=0x7f020005;
+        public static int meninblack=0x7f020006;
+        public static int moderncity=0x7f020007;
+        public static int red=0x7f020008;
+        public static int rider=0x7f020009;
+        public static int shuttlecarrier=0x7f02000a;
+        public static int starwars=0x7f02000b;
+        public static int thrones=0x7f02000c;
     }
     public static final class id {
-        public static int MyButton=0x7f050001;
         public static int item_touch_helper_previous_elevation=0x7f050000;
+        public static int mRecylcerID=0x7f050001;
+        public static int movieImage=0x7f050002;
+        public static int nameTxt=0x7f050003;
     }
     public static final class layout {
         public static int main=0x7f030000;
+        public static int model=0x7f030001;
     }
     public static final class string {
         public static int ApplicationName=0x7f080001;

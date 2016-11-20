@@ -58,5 +58,27 @@ C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custo
 C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\res\drawable\rider.jpg
 C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\R.cs.flag
 C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\uploadflags.txt
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\Custom RecyclerView StaggeredGrid.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\Custom RecyclerView StaggeredGrid.dllCustom RecyclerView StaggeredGrid.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\Mono.Android.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\mscorlib.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\System.Core.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\System.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\System.Xml.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\Custom RecyclerView StaggeredGrid.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\System.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\Java.Interop.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\System.Net.Http.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\Java.Interop.dll.mdb
 C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\Custom RecyclerView StaggeredGrid.dll.mdb
 C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\bin\Release\Custom RecyclerView StaggeredGrid.dll.mdb

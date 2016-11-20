@@ -2,7 +2,7 @@
 <Sdk>
   <AndroidApiLevel>23</AndroidApiLevel>
   <AndroidApiLevelName>23</AndroidApiLevelName>
-  <AndroidNdkPath>C:\Users\Hp\Documents\Android\ndk\android-ndk-r10e</AndroidNdkPath>
+  <AndroidNdkPath>C:\Program Files\Android\ndk\android-ndk-r11c</AndroidNdkPath>
   <AndroidSdkBuildToolsPath>C:\Program Files (x86)\Android\android-sdk\build-tools\23.0.2</AndroidSdkBuildToolsPath>
   <AndroidSdkBuildToolsBinPath>C:\Program Files (x86)\Android\android-sdk\build-tools\23.0.2</AndroidSdkBuildToolsBinPath>
   <AndroidSdkPath>C:\Program Files (x86)\Android\android-sdk</AndroidSdkPath>
@@ -16,5 +16,5 @@
   <ZipAlignPath>C:\Program Files (x86)\Android\android-sdk\build-tools\23.0.2</ZipAlignPath>
   <MonoAndroidIncludePath />
   <SupportedApiLevel>23</SupportedApiLevel>
-  <AndroidSequencePointsMode>Normal</AndroidSequencePointsMode>
+  <AndroidSequencePointsMode>None</AndroidSequencePointsMode>
 </Sdk>

@@ -1,0 +1,2 @@
+android.app.Application
+Custom_RecyclerView_StaggeredGrid.Custom_RecyclerView_StaggeredGrid

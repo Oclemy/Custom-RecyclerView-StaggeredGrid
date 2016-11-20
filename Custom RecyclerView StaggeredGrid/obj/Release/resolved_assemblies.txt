@@ -1,4 +1,5 @@
 C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\Custom RecyclerView StaggeredGrid.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\Java.Interop.dll
 C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\Mono.Android.dll
 C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\mscorlib.dll
 C:\Users\Hp\Documents\Visual Studio 2013\Custom RecyclerView StaggeredGrid\Custom RecyclerView StaggeredGrid\obj\Release\android\assets\System.Core.dll
